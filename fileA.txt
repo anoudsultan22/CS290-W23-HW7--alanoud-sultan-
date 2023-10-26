@@ -1,1 +1,2 @@
 calculate 100+100=500
+calculate 100*2=200
